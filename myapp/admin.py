@@ -1,3 +1,7 @@
+from .models import *
 from django.contrib import admin
 
-# Register your models here.
+admin.site.register(Doctor)
+admin.site.register(Medicine)
+admin.site.register(Pacient)
+

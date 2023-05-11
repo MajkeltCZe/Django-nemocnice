@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="029924a3-c6f5-4aa5-aa53-7f9870f357d4" name="Changes" comment="" />
+    <list default="true" id="029924a3-c6f5-4aa5-aa53-7f9870f357d4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoweb/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoweb/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoweb/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoweb/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoweb/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoweb/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoweb/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoweb/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,14 +40,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/python/djangoweb"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/python/djangoweb&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="djangoweb" type="Python.DjangoServer" factoryName="Django server">
       <module name="djangoweb" />
@@ -68,7 +82,11 @@
       <option name="presentableId" value="Default" />
       <updated>1683025735245</updated>
       <workItem from="1683025736551" duration="1548000" />
-      <workItem from="1683127150600" duration="361000" />
+      <workItem from="1683127150600" duration="510000" />
+      <workItem from="1683821469880" duration="246000" />
+      <workItem from="1683821754733" duration="107000" />
+      <workItem from="1683821883179" duration="212000" />
+      <workItem from="1683822098572" duration="6869000" />
     </task>
     <servers />
   </component>
