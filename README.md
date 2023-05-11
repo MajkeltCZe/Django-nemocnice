@@ -1,5 +1,4 @@
 Webová aplikace v Djangu - nemocnice
-tabulky: doktor, lék, pacient
 -----------------------------
 superuživatel: admin
 heslo: admin
